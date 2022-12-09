@@ -30,40 +30,6 @@ code_dir: downloads/code
 i18n_dir: :languages
 skip_render:
 
-# 菜单配置（若不需要某项可直接删除）
-menu:
-  # 首页
-  - id: home
-    link: /
-    icon: home
-    class: menu-home
-  # 归档
-  - id: archives
-    link: /archives
-    icon: archive
-    class: menu-archive
-  # 目录
-  - id: category
-    link: javascript:;
-    category: true
-    icon: bookmark
-    class: menu-category
-  # 读书
-  - id: reading
-    link: /reading
-    icon: book
-    class: menu-reading
-  # 关于
-  - id: about
-    link: /about
-    icon: user
-    class: menu-about
-  # 搜索
-  - id: search
-    link: "#search"
-    icon: search
-    class: menu-search modal-trigger
-
 # 颜色配置
 color:
   header: indigo
@@ -180,8 +146,26 @@ theme: raytaylorism
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
+deploy: # 所有部署器的根配置块
+- type: ''
+
+feed:
+  enable: true
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
 
 hexo_markmap:
   pjax: false

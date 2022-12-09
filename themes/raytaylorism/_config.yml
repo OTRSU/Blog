@@ -21,16 +21,10 @@ menu:
     link: /reading
     icon: book
     class: menu-reading
-  # 关于
-  - id: about
-    link: /about
-    icon: user
-    class: menu-about
   # 搜索
-  - id: search
-    link: "#search"
-    icon: search
-    class: menu-search modal-trigger
+search:
+  path: search.xml
+  field: all
 
 # 颜色配置
 color:
