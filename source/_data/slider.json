@@ -1,19 +1,7 @@
 [{
-    "image": "http://lorempixel.com/580/250/nature/1",
+    "image": "https://github.mirrors.linesrc.tk/OTRSU/Blog/raw/master/source/_resource/image/1.png",
     "align": "center",
-    "title": "This is our big Tagline!",
-    "subtitle": "Here's our small slogan.",
+    "title": "OpenRC",
+    "subtitle": "",
 	"link": "/"
-}, {
-    "image": "http://lorempixel.com/580/250/nature/2",
-    "align": "left",
-    "title": "Left Aligned Caption",
-    "subtitle": "Here's our small slogan.",
-	"link": null
-}, {
-    "image": "http://lorempixel.com/580/250/nature/3",
-    "align": "right",
-    "title": "Right Aligned Caption",
-    "subtitle": "Here's our small slogan.",
-	"link": null
 }]
