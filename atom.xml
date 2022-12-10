@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Openrc&#39;s Blog</title>
-  <icon>http://example.com/icon.png</icon>
+  <icon>https://blog.openrc.tk/icon.png</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://blog.openrc.tk/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-12-10T00:41:17.379Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://blog.openrc.tk/"/>
+  <updated>2022-12-10T01:01:10.217Z</updated>
+  <id>https://blog.openrc.tk/</id>
   
   <author>
     <name>Openrc</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>作业答案</title>
-    <link href="http://example.com/2022/12/10/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/"/>
-    <id>http://example.com/2022/12/10/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/</id>
+    <link href="https://blog.openrc.tk/2022/12/10/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/"/>
+    <id>https://blog.openrc.tk/2022/12/10/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/</id>
     <published>2022-12-10T06:43:59.000Z</published>
-    <updated>2022-12-10T00:41:17.379Z</updated>
+    <updated>2022-12-10T01:01:10.217Z</updated>
     
     
       
@@ -42,10 +42,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/12/10/hello-world/"/>
-    <id>http://example.com/2022/12/10/hello-world/</id>
-    <published>2022-12-10T00:41:17.379Z</published>
-    <updated>2022-12-10T00:41:17.379Z</updated>
+    <link href="https://blog.openrc.tk/2022/12/10/hello-world/"/>
+    <id>https://blog.openrc.tk/2022/12/10/hello-world/</id>
+    <published>2022-12-10T01:01:10.217Z</published>
+    <updated>2022-12-10T01:01:10.217Z</updated>
     
     
       
@@ -63,10 +63,10 @@
   
   <entry>
     <title>LetITFly</title>
-    <link href="http://example.com/2022/12/06/LetITFly/"/>
-    <id>http://example.com/2022/12/06/LetITFly/</id>
+    <link href="https://blog.openrc.tk/2022/12/06/LetITFly/"/>
+    <id>https://blog.openrc.tk/2022/12/06/LetITFly/</id>
     <published>2022-12-06T19:45:53.000Z</published>
-    <updated>2022-12-10T00:41:17.379Z</updated>
+    <updated>2022-12-10T01:01:10.217Z</updated>
     
     
       
