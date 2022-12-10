@@ -23,8 +23,6 @@ jobs:
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: npm install
-      - name: Time
-        run: git clone https://github.com/OTRSU/Proxies
       - name: Build
         run: npm run build
       - name: CNAME
