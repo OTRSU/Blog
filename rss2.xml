@@ -15,7 +15,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sat, 10 Dec 2022 00:00:36 GMT</pubDate>
+    <pubDate>Sat, 10 Dec 2022 00:22:45 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -48,7 +48,7 @@
       <title>Hello World</title>
       <link>http://example.com/2022/12/10/hello-world/</link>
       <guid>http://example.com/2022/12/10/hello-world/</guid>
-      <pubDate>Sat, 10 Dec 2022 00:00:36 GMT</pubDate>
+      <pubDate>Sat, 10 Dec 2022 00:22:45 GMT</pubDate>
       
         
         
