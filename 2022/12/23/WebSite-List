@@ -7,13 +7,18 @@
 
     
 
-    <title>归档 | </title>
+    <title>WebSite-List | </title>
     <meta name="author" content="Openrc">
+    
+    <meta name="description" content="This is a List for my own websites.Proxiescdn
+ghproxy
+Github Reverse
+Gotox">
     
     
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    
+    <meta property="og:title" content="WebSite-List"/>
     <meta property="og:site_name" content="Openrc&#39;s Blog"/>
 
     
@@ -145,58 +150,76 @@
 
     <main>
         <div class="container main-container">
-    
-
-<nav class="page-nav hide-on-small-only">
+    <nav class="page-nav hide-on-small-only">
     <div class="nav-wrapper indigo">
-        <span class="breadcrumb">当前位置（归档）</span>
+        <span class="breadcrumb">当前位置（分类目录）</span>
+        
+            
+
         
 
         
     </div>
 </nav>
 
+<article>
+    <div class="card">
+        <div class="card-content">
+            
+
+            <div class="article-title">
+                
+    
+        <h1>WebSite-List</h1>
+    
 
 
-    <ul class="collapsible mt-0" data-collapsible="accordion">
-        
-        
-            <li>
-                <div class="collapsible-header active">
-                    <i class="fa fa-archive"></i>2022
-                </div>
-                <div class="collapsible-body">
-                    <div class="collection">
-                        
-                            <a href="/2022/12/23/hello-world" class="collection-item grey-text text-darken-1">
-                                <time datetime="2022-12-23T23:15:11.955Z">2022-12-23</time>
-                                <span>&nbsp;&nbsp;&nbsp;</span>
-                                Hello World
-                            </a>
-                        
-                            <a href="/2022/12/23/WebSite-List" class="collection-item grey-text text-darken-1">
-                                <time datetime="2022-12-23T23:08:28.000Z">2022-12-23</time>
-                                <span>&nbsp;&nbsp;&nbsp;</span>
-                                WebSite-List
-                            </a>
-                        
-                            <a href="/2022/12/10/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88" class="collection-item grey-text text-darken-1">
-                                <time datetime="2022-12-10T06:43:59.000Z">2022-12-10</time>
-                                <span>&nbsp;&nbsp;&nbsp;</span>
-                                作业答案
-                            </a>
-                        
-                            <a href="/2022/12/06/LetITFly" class="collection-item grey-text text-darken-1">
-                                <time datetime="2022-12-06T19:45:53.000Z">2022-12-06</time>
-                                <span>&nbsp;&nbsp;&nbsp;</span>
-                                LetITFly
-                            </a>
-                        
-                    </div>
-                </div>
-            </li>
-        
-    </ul>
+            </div>
+            <time class="pink-link-context" datetime="2022-12-23T23:08:28.000Z"><a href="/2022/12/23/WebSite-List">2022-12-23</a></time>
+
+            <span id="busuanzi_container_page_pv" class="read-times-container">
+    <i class="fa fa-eye"></i>
+    <span id="busuanzi_value_page_pv"></span>
+</span>
+
+            
+
+            <div class="toc pink-link-context hide-on-med-and-down">
+    <ol class="section table-of-contents"><li class="section table-of-contents-item section table-of-contents-level-2"><a class="section table-of-contents-link" href="#This-is-a-List-for-my-own-websites"><span class="section table-of-contents-text">This is a List for my own websites.</span></a></li></ol></li><li class="section table-of-contents-item section table-of-contents-level-1"><a class="section table-of-contents-link" href="#Proxies"><span class="section table-of-contents-text">Proxies</span></a>
+</div>
+
+
+            <div class="entry pink-link-context">
+                <h2 id="This-is-a-List-for-my-own-websites"><a href="#This-is-a-List-for-my-own-websites" class="headerlink" title="This is a List for my own websites."></a>This is a List for my own websites.</h2><h1 id="Proxies"><a href="#Proxies" class="headerlink" title="Proxies"></a>Proxies</h1><p><a target="_blank" rel="noopener" href="https://cdn.linesrc.tk/">cdn</a></p>
+<p><a target="_blank" rel="noopener" href="https://ghproxy.linesrc.tk/">ghproxy</a></p>
+<p><a target="_blank" rel="noopener" href="https://github.mirrors.linesrc.tk/">Github Reverse</a></p>
+<p><a target="_blank" rel="noopener" href="https://gofly.openrc.tk/">Gotox</a></p>
+
+                
+<p class="pink-link-context">
+    <a href="/2022/12/23/hello-world" rel="next" title="Hello World">
+    上一篇：Hello World
+  </a>
+</p>
+
+
+
+<p class="pink-link-context">
+    <a href="/2022/12/10/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88" rel="next" title="作业答案">
+    下一篇：作业答案
+  </a>
+</p>
+
+
+            </div>
+			
+        </div>
+    </div>
+</article>
+
+
+
+
 
 
 </div>
