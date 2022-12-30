@@ -20,7 +20,7 @@
     "hexo-generator-search": "^2.4.3",
     "hexo-generator-tag": "^2.0.0",
     "hexo-markmap": "^1.1.5",
-    "hexo-midijs": "^1.0.6",
+    "hexo-midijs": "^1.1.0",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-marked": "^6.0.0",
     "hexo-renderer-stylus": "^2.1.0",
